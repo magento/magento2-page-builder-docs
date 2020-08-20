@@ -1,0 +1,1 @@
+{"data":{"ParliamentSearchIndex":{"version":"0.9.5","fields":["title","body","path","type"],"ref":"id","documentStore":{"docs":{},"docInfo":{},"length":0,"save":true},"index":{"title":{"root":{"docs":{},"df":0}},"body":{"root":{"docs":{},"df":0}},"path":{"root":{"docs":{},"df":0}},"type":{"root":{"docs":{},"df":0}}},"pipeline":["trimmer","stopWordFilter","stemmer"]}}}
